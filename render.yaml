@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: wanaoni-foundation
+    runtime: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+version: "1"
+services:
+- type: web
+  name: hello-world-1-4
+  runtime: docker
+  repo: https://github.com/wanaonimichael/hello-world-1
+  plan: free
+  region: oregon
+  dockerContext: .
+  dockerfilePath: ./Dockerfile
+git add render.yaml
+git commit -m "Add render.yaml"
+git push

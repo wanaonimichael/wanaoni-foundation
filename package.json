@@ -1,0 +1,97 @@
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+<<<<<<< HEAD
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+=======
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.16.0"
+    }
+>>>>>>> origin/master
+}
+{
+    "name": "wanaoni-foundation",
+    "version": "1.0.0",
+    "description": "DV Lottery Application Assistance",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
+{
+  "name": "wanaonifoundation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "description": ""
+}
